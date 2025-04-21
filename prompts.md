@@ -6,6 +6,8 @@
 
 > **COMPATIBILITY NOTE:** These prompts have been tested on ChatGPT-4o. They work on both o3 and ChatGPT-4o, but for better consistent results, we recommend using ChatGPT-4o.
 
+> **USAGE TIP:** For the best experience, it's preferable to use each prompt in a new conversation.
+
 <div align="center">
 <h2>CATEGORY: ONE-SHOT PROMPTS</h2>
 <h4>Require Memory Activation</h4>
